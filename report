@@ -1,8 +1,8 @@
-This scan was created on Sun Oct 17 09:13:52 PM EDT 2021
+This scan was created on Sun Oct 17 09:14:50 PM EDT 2021
 Results for Nmap:
-Starting Nmap 7.91 ( https://nmap.org ) at 2021-10-17 21:13 EDT
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-10-17 21:14 EDT
 Results for Dirsearch:
-# Dirsearch started Sun Oct 17 21:13:08 2021 as: /home/kali/dirsearch/dirsearch.py -u recordedfuture.com -e php -o recordedfuture.com_recon/dirsearch
+# Dirsearch started Sun Oct 17 21:14:08 2021 as: /home/kali/dirsearch/dirsearch.py -u recordedfuture.com -e php -o recordedfuture.com_recon/dirsearch
 
 400   155B   http://recordedfuture.com:80/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
 400   155B   http://recordedfuture.com:80/cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
