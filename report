@@ -12,6 +12,7 @@ Results for Dirsearch:
 400   155B   http://recordedfuture.com:80/cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
 301     0B   http://recordedfuture.com:80/examples/jsp/%252e%252e/%252e%252e/manager/html/    -> REDIRECTS TO: https://recordedfuture.com/examples/jsp/%252e%252e/%252e%252e/manager/html/
 Results for crt.sh:
+lyra.recordedfuture.com
 www.recordedfuture.com
 www.recordedfuture.com
 www-test.recordedfuture.com
