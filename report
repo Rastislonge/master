@@ -1,9 +1,10 @@
 Results for Nmap:
-Not shown: 997 filtered ports
+Not shown: 996 filtered ports
 PORT     STATE SERVICE
 80/tcp   open  http
 443/tcp  open  https
 8080/tcp open  http-proxy
+8443/tcp open  https-alt
 
 Results for Dirsearch:
 
